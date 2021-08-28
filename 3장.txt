@@ -1,0 +1,10 @@
+error 상황
+
+
+employees sample data 로딩  
+
+terminal에서:
+
+sample db 폴더로 이동( cd 경로) -> mysql -u root -p < employees.sql(파일명임)  
+
+또는 workbench 에서 File-> open sql script -> 해당 db 파일 실행
